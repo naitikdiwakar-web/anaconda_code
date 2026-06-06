@@ -1,0 +1,6 @@
+name    |class|
+naitik  | 11  |
+raghav  | 12  |
+shivam  | 01  |
+sumit   | 09  |
+amit    | 08  |
